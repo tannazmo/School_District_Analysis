@@ -47,7 +47,7 @@ After
 After we replaced the math and reading scores for THS, we see that it is not affecting any other place, and just the THS 9th grade for math and reading.
  
 ### Scores by School Spending
-THS ‘s budget per student falls into the $631-645 band
+THS's budget per student falls into the $631-645 band
 So we now look at how the spending was affected before and after the replacement.
 
 Before
@@ -73,7 +73,7 @@ After
 ![Scores_by_School_Size](/Resources/size_summary_after.png "Scores by school size AFTER update")
 
 ### Scores by School Type
-And Finally, we look at the data frame when the schools are grouped by their type (District and Charter)
+And Finally, we look at the data frame when the schools are grouped by their type (District and Charter). Noting that THS is a Charter school:
 
 Before
 
