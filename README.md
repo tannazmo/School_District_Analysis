@@ -87,5 +87,5 @@ After
 And as we see both are showing the same results.
 
 ## Summary
-We compared the results in the previous analysis and the results from the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. And we see that it impacts the Average math score, average reading score and the passing percentages of math and reading and the overall passing percentage. 
+We compared the results in the previous analysis and the results from the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. And we see that it impacts the Average math score, average reading score and the passing percentages of math and reading and the overall passing percentage. But the updates do not impact the higher level reports such as summary by school size and summary by school type or the school budget per student.
 
